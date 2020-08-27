@@ -1,5 +1,5 @@
 # Sensehat  
-Sensehat Demos and Basic Programs  
+Sensehat demos and basic programs for Jay Pritzker Academy Summer Session, 2019
   
 Contained in this repository are 13 simple programs to demonstrate various functions on the Sensehat!  
   
